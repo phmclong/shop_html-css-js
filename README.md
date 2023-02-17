@@ -1,5 +1,5 @@
 # Web bán hàng 
 # Technology:
 - HTML
-- CSS 
+- CSS (CSS Grid)
 - Vanilla JS
